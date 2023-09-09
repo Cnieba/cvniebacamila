@@ -1,3 +1,13 @@
 h1{
-    
+    text-align: center;
+    color: rgba(146, 141, 151, 0.863);
+}
+
+
+img{
+    border: solid; 3px
+    padding: 20px;
+    border-radius: 20px;
+    width: fit-content;
+    height: 290px;
 }
