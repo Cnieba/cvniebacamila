@@ -1,13 +1,38 @@
 h1{
+    color: rgb(0, 0, 0);
     text-align: center;
-    color: rgba(146, 141, 151, 0.863);
 }
 
 
 img{
-    border: solid; 3px
+    border: solid 2px;
     padding: 20px;
+    border-radius: 20px;
     border-radius: 20px;
     width: fit-content;
     height: 290px;
 }
+
+#titulo{
+    font-size: larger;
+    background-color: rgba(119, 133, 211, 0.979);
+    padding: 30px;
+}
+
+footer{
+    background-color: rgb(155, 155, 64);
+    color: black;
+}
+nav{
+    background-color: rgb(165, 131, 185);
+    display: flex;
+}
+
+.boton{
+    background-color: rgba(195, 195, 206, 0.795);
+    margin: 15px;
+    padding: 10px;
+    width: auto;
+    height: 10px;
+}
+
